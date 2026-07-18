@@ -5,7 +5,7 @@ Welcome to my digital headquarters. I build software, optimize systems, and cons
 
 ## 💻 Tech Stack & Tools
 - **Languages:** Python, Java, JavaScript, HTML5, CSS3
-- **Tools:** Git, GitHub, VS Code, Eclipse
+- **Tools:** Git, GitHub, VS Code, Eclipse, Sql
 - **Core:** Data Structures, Algorithms, Object-Oriented Programming
 
 ## 📈 Current Status
